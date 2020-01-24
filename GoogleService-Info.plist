@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>349255053189-41v45uatdqf0t6ojolr5vpg91ju3i56j.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.349255053189-41v45uatdqf0t6ojolr5vpg91ju3i56j</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDn7_LuxSEk2VXvtr6rqRff5pjvfI9kK40</string>
+	<key>GCM_SENDER_ID</key>
+	<string>349255053189</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>BRN.pushnotification567</string>
+	<key>PROJECT_ID</key>
+	<string>bike-spin</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bike-spin.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:349255053189:ios:94bc5a2ccaf50b4d771eec</string>
+	<key>DATABASE_URL</key>
+	<string>https://bike-spin.firebaseio.com</string>
+</dict>
+</plist>
